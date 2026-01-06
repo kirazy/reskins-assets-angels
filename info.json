@@ -1,27 +1,12 @@
 {
-    "name": "ar-assets-angels",
+    "name": "reskins-assets-angels",
     "version": "1.0.0",
-    "factorio_version": "1.1",
+    "factorio_version": "2.0",
     "title": "Artisanal Reskins: Angel's Assets",
     "author": "Kirazy",
     "contact": "https://discord.gg/qAvSyzZFPr",
+    "homepage": "https://github.com/kirazy/reskins-assets-angels",
     "dependencies": [
-        "base",
-        "~ ar-assets-api",
-        "? angelsbioprocessing",
-        "? angelsbioprocessinggraphics",
-        "? angelsexploration",
-        "? angelsexplorationgraphics",
-        "? angelsindustries",
-        "? angelsindustriesgraphics",
-        "? angelspetrochem",
-        "? angelspetrochemgraphics",
-        "? angelsrefining",
-        "? angelsrefininggraphics",
-        "? angelssmelting",
-        "? angelssmeltinggraphics",
-        "? angelsaddons-cab",
-        "? angelsaddons-mobility",
-        "? angelsaddons-storage"
+        "base"
     ]
 }
