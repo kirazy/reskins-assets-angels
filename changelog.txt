@@ -3,6 +3,8 @@ Version: 1.0.1
 Date: ????
   Features:
     - Added icons\powders\copper-tungsten\...
+  Changes:
+    - Renamed bioprocessor -> bio-processor throughout
 
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
