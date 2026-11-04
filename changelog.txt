@@ -2,6 +2,7 @@
 Version: 2.2.1
 Date: ????
   Changes:
+    - Added the mask and highlights of the logistic warehouse icons, for tiered warehouses
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
 Date: 2026-11-01
