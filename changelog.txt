@@ -5,6 +5,7 @@ Date: ????
     - Added the mask and highlights of the logistic warehouse icons, for tiered warehouses
   Breaking Changes:
     - Renamed the copper-tungsten powder icons to `powder-copper-tungsten.png` and `powder-copper-tungsten-{i}.png`, as the other powders are named
+    - Renamed `fuel-cells/AMOX-cell.png` to `mixed-oxide-fuel-cell.png`, `fuel-cells/bright-uranium-fuel-cell.png` to `uranium-234-fuel-cell.png`, and `technology/smelting/smelting-depleted.png` to `smelting-depleted-uranium.png`, as the other files of their folders are named
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
 Date: 2026-11-01
