@@ -4,6 +4,7 @@ Date: ????
   Changes:
     - Added the mask and highlights of the logistic warehouse icons, for tiered warehouses
     - Added the technology icon of the gas tank
+    - Added the sprites and icon of the inspector valve, which have no arrow
   Breaking Changes:
     - Removed the numeral icons of `graphics/icons/numerals`.
     - Renamed the copper-tungsten powder icons to `powder-copper-tungsten.png` and `powder-copper-tungsten-{i}.png`, as the other powders are named
