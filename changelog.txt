@@ -1,14 +1,14 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.3.0
 Date: ????
-  Changes:
-    - Added the mask and highlights of the logistic warehouse icons, for tiered warehouses
-    - Added the technology icon of the gas tank
-    - Added the sprites and icon of the inspector valve, which have no arrow
+  Features:
+    - Added masks and highlights for the logistic warehouse icons to support tiered warehouses.
+    - Added the gas tank technology icon.
+    - Added the inspector valve sprites and icon.
   Breaking Changes:
-    - Removed the numeral icons of `graphics/icons/numerals`.
-    - Renamed the copper-tungsten powder icons to `powder-copper-tungsten.png` and `powder-copper-tungsten-{i}.png`, as the other powders are named
-    - Renamed `fuel-cells/AMOX-cell.png` to `mixed-oxide-fuel-cell.png`, `fuel-cells/bright-uranium-fuel-cell.png` to `uranium-234-fuel-cell.png`, and `technology/smelting/smelting-depleted.png` to `smelting-depleted-uranium.png`, as the other files of their folders are named
+    - Removed the numeral icons in `graphics/icons/numerals`.
+    - Renamed the copper-tungsten powder icons to `powder-copper-tungsten.png` and `powder-copper-tungsten-{i}.png` to match the other powders.
+    - Renamed `fuel-cells/AMOX-cell.png` to `mixed-oxide-fuel-cell.png`, `fuel-cells/bright-uranium-fuel-cell.png` to `uranium-234-fuel-cell.png`, and `technology/smelting/smelting-depleted.png` to `smelting-depleted-uranium.png`.
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
 Date: 2026-11-01
