@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.3.0
-Date: ????
+Date: 2026-11-09
   Features:
     - Added masks and highlights for the logistic warehouse icons to support tiered warehouses.
     - Added the gas tank technology icon.
